@@ -28,7 +28,7 @@
 
 3. Серверное оборудование. -server equipment.md
 
-4. Сетевое оборудование. -network hardware
+4. Сетевое оборудование. -network hardware.md
 
 5. Контроллер домена (Active Directory, DNS, DHCP). -domain controller.md
 
