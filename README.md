@@ -40,7 +40,7 @@
 
 9. Сайты. -sites.md
 
-10. Системы контроля доступа и видеонаблюдение. Облачные хосты. -Access control systems and video surveillance.md
+10. Системы контроля доступа и видеонаблюдение. Облачные хосты. -access control systems and video surveillance.md
 
 11. АТС. -ATS.md
 
