@@ -32,7 +32,7 @@
 
 5. Контроллер домена (Active Directory, DNS, DHCP). -domain controller.md
 
-6. Почта. -mail
+6. Почта. -mail.md
 
 7. Базы данных. -database.md
 
