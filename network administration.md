@@ -18,3 +18,7 @@
 - Физический уровень
 
 ![image](https://github.com/tvgVita69/sysadmin/assets/98489171/d19cc52d-21a6-4b87-8984-626c028f29e8)
+
+так по понятнее
+
+![image](https://github.com/tvgVita69/sysadmin/assets/98489171/3f8af810-f6e8-462f-94d0-e0b69e6c903c)
