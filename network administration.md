@@ -26,3 +26,11 @@
 уровень TCP/IP
 
 ![tcp-ip](https://github.com/tvgVita69/sysadmin/assets/98489171/20fbc07f-aa25-455c-8f68-86a6b881cb8a)
+
+А теперь разбираемся по уровням.
+Например вопрос к какому уровню относится ARP?
+![unnamed](https://github.com/tvgVita69/sysadmin/assets/98489171/7f748bf0-4786-46db-bd90-0a6a0310f43b)
+ 
+по этому изображению можно отнести к 3 уровню, но так ли на самом деле?
+ 
+![v-osi](https://github.com/tvgVita69/sysadmin/assets/98489171/5e9b7cff-b8a0-4223-b49e-2eea7ad361b2)
