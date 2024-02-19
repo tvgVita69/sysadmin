@@ -37,7 +37,8 @@
  
 по этому изображению можно отнести к 3 уровню, но так ли на самом деле?
  
-![v-osi](https://github.com/tvgVita69/sysadmin/assets/98489171/5e9b7cff-b8a0-4223-b49e-2eea7ad361b2)
+![106](https://github.com/tvgVita69/sysadmin/assets/98489171/9f51b696-4635-4d22-89f0-48e4037b0612)
+
 
 В модели TCP/IP он между 1 и 2, а в модели OSI он между 2 и 3.<br>
 Что такое arp? <br>
