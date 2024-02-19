@@ -21,4 +21,5 @@
 
 так по понятнее
 
-![image](https://github.com/tvgVita69/sysadmin/assets/98489171/3f8af810-f6e8-462f-94d0-e0b69e6c903c)
+![image](https://github.com/tvgVita69/sysadmin/assets/98489171/69f990b5-466f-4f2c-b198-d794345d650b)
+
