@@ -64,10 +64,12 @@
 Рассмотрим что из себя представляют одноранговые сети и многоранговые сети(доменные, клиент серверные).
 
 Одноранговые сети
-![107](https://github.com/tvgVita69/sysadmin/assets/98489171/e572f15a-b0af-4dd5-ba68-fef9e5573f66)
+![107](https://github.com/tvgVita69/sysadmin/assets/98489171/2f499ee7-c978-4600-bdac-bef1afde817b)
+
 
 Многоранговые сети
-![108](https://github.com/tvgVita69/sysadmin/assets/98489171/5be86114-92c7-4e61-9030-c9319c4d0731)
+![108](https://github.com/tvgVita69/sysadmin/assets/98489171/59cdf628-88b9-41f2-9098-3c23db08a05b)
+
 
 
 
